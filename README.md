@@ -74,6 +74,7 @@ Joining the internship was an exhilarating experience. Learning about the projec
 
 * Beginning week two, our primary objective is to enhance the home page interface for our EMS project. We are keen on creating a customized transaction display and improving visual representation with graphics.
 
+## 📝 Day-by-Day Progress
 #### Day 1: Planning and Initial Setup
 - **Tasks:**
   - Plan the overall structure of the home page layout.
