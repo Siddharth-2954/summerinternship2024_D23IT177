@@ -70,6 +70,9 @@ Joining the internship was an exhilarating experience. Learning about the projec
 * https://www.npmjs.com/package/antd
 
 ## 2️⃣ week 2
+𝟏8𝙩𝙝 𝙢𝙖𝙮 𝟐𝟎𝟐𝟒
+
+* Beginning week two, our primary objective is to enhance the home page interface for our EMS project. We are keen on creating a customized transaction display and improving visual representation with graphics.
 
 #### Day 1: Planning and Initial Setup
 - **Tasks:**
