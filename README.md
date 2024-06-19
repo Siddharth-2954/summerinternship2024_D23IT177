@@ -145,3 +145,20 @@ Joining the internship was an exhilarating experience. Learning about the projec
   - Making of backend for signup using express and node js, learned about new libraries like, jsonwebtoken and bcrypt for token generation and password encryption 
   - Learned about establishing connection between node js and mongodb using config file by making database.js file.
   - Built knowledge about api making and authentication and routes. 
+#### ╰┈➤ Day 2 : Optimizing Signup and Login Handler
+* **Task :**
+  * Initializing the Auth.js file for making handlers.
+  * Learn about hashing function of npm used for hasing password using .hash()
+  * Checking for existing user and creating new user using api routes.
+  * Validating data filled by user for authenticating.
+  * Verifiying password for logging in.
+
+
+#### ╰┈➤ Day 3 : Initializing middlewares and creating evironment for frontend work in React⚛️
+ * **Task :**
+   * Checking for client role and building routes according to client's input.
+   * Initializing signup and login page in `.jsx` file.
+   * Fetching Information from backend about the details filled by user.
+   * Learn about `Axios` library in react, and started using postman for various request send from backend and converting it in react for seamless use.
+   * Used `POST` method for signing in.
+   * Used Ant Design for some styling and required components such as Form, Input, etc..
