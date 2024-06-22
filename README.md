@@ -177,3 +177,11 @@ Joining the internship was an exhilarating experience. Learning about the projec
     * After adding the product, it is then mapped on the screen using the `.map` function in JavaScript.
     * Useful Links :
       * https://react.dev/reference/react/useEffect 
+
+#### ╰┈➤ Day 5 : Displaying the user added products 
+ * **Task :**
+    *  Initialized ProductCard.jsx, ProductList.jsx
+    * ProductList.jsx is used for displaying added products, while ProductCard.jsx is that products user defined.
+    * ProductCard.jsx contains product Id which redirct to the product current status.
+    * Were user can add the product to cart.
+    * This is the progress made for the day.
