@@ -185,3 +185,9 @@ Joining the internship was an exhilarating experience. Learning about the projec
     * ProductCard.jsx contains product Id which redirct to the product current status.
     * Were user can add the product to cart.
     * This is the progress made for the day.
+
+#### ╰┈➤ Day 6 : Documenting and debugging day 
+ * **Task :**
+    *  Document the progress made during the week.
+    * Summarize key achievements, challenges, and lessons learned.
+    * Debugged the login and signup page more user friendly.
