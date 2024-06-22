@@ -162,3 +162,18 @@ Joining the internship was an exhilarating experience. Learning about the projec
    * Learn about `Axios` library in react, and started using postman for various request send from backend and converting it in react for seamless use.
    * Used `POST` method for signing in.
    * Used Ant Design for some styling and required components such as Form, Input, etc..
+
+#### ╰┈➤ Day 4 : Completion of Dashboard and Add/Edit/Delete Operations
+ * **Task :**
+    *  Initialized dashboard.jsx
+    * Initialized header, content, and footer components
+    * Header includes user name, project name, and logout button
+    * Initialized footer component
+    * In this format, the "add edit product" has been implemented with the following fields:
+      - Title: ''
+      - Description: ''
+      - Price: ''
+      - Category: ''
+    * After adding the product, it is then mapped on the screen using the `.map` function in JavaScript.
+    * Useful Links :
+      * https://react.dev/reference/react/useEffect 
