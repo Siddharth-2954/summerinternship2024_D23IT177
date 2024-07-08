@@ -191,3 +191,14 @@ Joining the internship was an exhilarating experience. Learning about the projec
     *  Document the progress made during the week.
     * Summarize key achievements, challenges, and lessons learned.
     * Debugged the login and signup page more user friendly.
+
+## 4️⃣ week 4
+3𝙧𝙙 𝙟𝙪𝙣𝙚 𝟐𝟎𝟐𝟒
+  * Completion of the remaining stuff for the project such as making the routes and api's arranging products details according to the required css making the website responsive and debugging.
+
+## 📝 Day-by-Day Progress
+
+#### ╰┈➤ Day 1: Website Checking and Learning Start
+- Checked the website to ensure that items are being properly added
+- Identified that the product image is not showing and started working on solving the error
+- Began learning about React components and Express
