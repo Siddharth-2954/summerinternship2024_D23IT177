@@ -207,7 +207,8 @@ Joining the internship was an exhilarating experience. Learning about the projec
  
     
 #### ╰┈➤ Day 2: Troubleshooting and System Review
-- Continued troubleshooting and working on solving the product image error
-- Explored more about React components and practiced implementing them
-- Reviewed the expense management system and noted areas for improvement
-- Made some changes in Bootstrap CSS for the product management system
+* **Task :**
+  - Continued troubleshooting and working on solving the product image error
+  - Explored more about React components and practiced implementing them
+  - Reviewed the expense management system and noted areas for improvement
+  - Made some changes in Bootstrap CSS for the product management system
