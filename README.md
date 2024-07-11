@@ -199,10 +199,13 @@ Joining the internship was an exhilarating experience. Learning about the projec
 ## 📝 Day-by-Day Progress
 
 #### ╰┈➤ Day 1: Website Checking and Learning Start
-- Checked the website to ensure that items are being properly added
-- Identified that the product image is not showing and started working on solving the error
-- Began learning about React components and Express
+* **Task :**
 
+  * Checked the website to ensure that items are being properly added
+  - Identified that the product image is not showing and started working on solving the error
+  - Began learning about React components and Express
+ 
+    
 #### ╰┈➤ Day 2: Troubleshooting and System Review
 - Continued troubleshooting and working on solving the product image error
 - Explored more about React components and practiced implementing them
