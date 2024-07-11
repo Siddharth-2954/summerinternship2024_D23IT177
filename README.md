@@ -3,7 +3,7 @@
 
 
 ## 4th Sem Summer Internship
-🌟Summer Internship - Project 🌟
+Summer Internship - Project
 
 Welcome to my GitHub repository for the Summer Internship 2024! This file showcases the work done during the internship.
 
@@ -202,3 +202,9 @@ Joining the internship was an exhilarating experience. Learning about the projec
 - Checked the website to ensure that items are being properly added
 - Identified that the product image is not showing and started working on solving the error
 - Began learning about React components and Express
+
+#### ╰┈➤ Day 2: Troubleshooting and System Review
+- Continued troubleshooting and working on solving the product image error
+- Explored more about React components and practiced implementing them
+- Reviewed the expense management system and noted areas for improvement
+- Made some changes in Bootstrap CSS for the product management system
