@@ -215,6 +215,6 @@ Joining the internship was an exhilarating experience. Learning about the projec
  
 ### ╰┈➤ Day 3: Image Error Resolution and System Update
 - **Tasks :**
-Resolved the product image error and ensured that images are now displaying properly
-Deepened understanding of React components and started applying them in the project
-Updated the expense management system based on the review
+  - Resolved the product image error and ensured that images are now displaying properly
+  - Understanding of React components and started applying them in the project
+  - Updated the expense management system based on the review
