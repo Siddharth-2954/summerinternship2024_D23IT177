@@ -218,3 +218,9 @@ Joining the internship was an exhilarating experience. Learning about the projec
   - Resolved the product image error and ensured that images are now displaying properly
   - Understanding of React components and started applying them in the project
   - Updated the expense management system based on the review
+ 
+### ╰┈➤ Day 4: Component Integration and UI Enhancement
+- **Tasks :**
+  - Practiced creating new React components and integrating them into the project
+  - Worked on enhancing the user interface of the product management system with Bootstrap CSS
+  - Continued reviewing and making changes to both the expense management and product management systems
