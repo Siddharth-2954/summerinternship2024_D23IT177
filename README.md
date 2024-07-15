@@ -224,3 +224,9 @@ Joining the internship was an exhilarating experience. Learning about the projec
   - Practiced creating new React components and integrating them into the project
   - Worked on enhancing the user interface of the product management system with Bootstrap CSS
   - Continued reviewing and making changes to both the expense management and product management systems
+
+#### ╰┈➤ Day 5: Advanced Components and Feature Implementation
+- **Tasks :**
+- Explored advanced React components to further improve the project
+- Implemented additional features to the product management system
+- Continued refining the UI design using Bootstrap CSS
