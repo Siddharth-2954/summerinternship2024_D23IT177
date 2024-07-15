@@ -227,6 +227,6 @@ Joining the internship was an exhilarating experience. Learning about the projec
 
 #### ╰┈➤ Day 5: Advanced Components and Feature Implementation
 - **Tasks :**
-- Explored advanced React components to further improve the project
-- Implemented additional features to the product management system
-- Continued refining the UI design using Bootstrap CSS
+  - Explored advanced React components to further improve the project
+  - Implemented additional features to the product management system
+  - Continued refining the UI design using Bootstrap CSS
